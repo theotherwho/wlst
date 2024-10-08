@@ -1,0 +1,18 @@
+print('\n\n --- \n\n')
+print '          .-:///:-.           '
+print '      .+ymmmmmmmmmmmy+`       '
+print '   .dmmmmmms+///odmmmmmms     '
+print '   smmmmmm-      `ymmmmmm.    '
+print '   :+++++-        ommmmmd`    '
+print '               `-smmmmmd-     '
+print '           .mmmmmmmmmmy:      '
+print '           `hhdmmmmmmd+`      '
+print '           `+++shmmmmmmmh.    '
+print '                 -ymmmmmmh    '
+print '                   ymmmmmm-   '
+print '  -dhhhhd:         smmmmmm-   '
+print '  `mmmmmmy        :mmmmmmm.   '
+print '   .odmmmmmmmmmmmmmmmmmmdo.   '
+print '   +mmmmmmhmmmmmmmmmmmmmm+    '
+print '       `-+syhhhhyso/.         '
+print('\n\n --- \n\n')

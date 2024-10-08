@@ -1,0 +1,15 @@
+print('\n\n --- \n\n')
+print '      -hhhhhhhhhhhhhhhh       '
+print '      -hhhhhhhhhhhhhhhh       '
+print '      :hhhh/----------.       '
+print '      :hhhh-`...`             '
+print '      :hhhhhhhhhhhs+-         '
+print '      /hhhhhhhhhhhhhhs.       '
+print '      /dddds:.`.-/yhhhh:      '
+print '                  `ydddh`     '
+print '                   /dddd-     '
+print '         `-       `ydddd`     '
+print '      `+yddy/-..-oddddd:      '
+print '       +ddddmmmmmmmmdy-       '
+print '        `/ydmmmddmho-         '
+print('\n\n --- \n\n')
